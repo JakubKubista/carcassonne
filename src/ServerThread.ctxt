@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=dataOutputStream\ dataInputStream\ server\ socket
+comment0.target=ServerThread(java.io.DataOutputStream,\ java.io.DataInputStream,\ Server,\ java.net.Socket)
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Hlavni\ naslouchajici\ a\ reagujici\ smycka.\ Cte\ prikazy\ od\ klienta,\ zpracuje\ je\ a\ provede\ prislusnou\ akci.\r\n\ Prislusna\ akce\ \=\ vetsinou\ volani\ herni\ logiky\ hlavniho\ serveru\r\n
+comment2.params=
+comment2.target=int\ hashCode()
+comment2.text=\r\n\ Metoda\ hashCode\ dopl\u0148uje\ equals\ p\u0159i\ jej\u00EDm\ ov\u011B\u0159en\u00ED\ \u0159\u00E1dn\u00FDm\ v\u00FDpo\u010Detem\ parametru.\r\n
+comment3.params=
+comment3.target=void\ exit()
+comment3.text=\r\n\ Metoda\ oznamujici\ ukonceni\ hry\ klienta\r\n
+comment4.params=words
+comment4.target=void\ sendCommand(java.lang.String)
+comment4.text=\r\n\ Univerzalni\ odeslani\ jakehokoliv\ prikazu\r\n
+comment5.params=
+comment5.target=int\ getCommand()
+numComments=6

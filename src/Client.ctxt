@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=host\ port
+comment0.target=void\ connectToServer(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ createClientStatus()
+numComments=2

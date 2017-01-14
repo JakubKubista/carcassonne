@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\r\n\ Konstruktor\ nastav\u00ED\ \u010D\u00EDslo\ prvn\u00ED\ karty\ na\ -1,\ jeliko\u017E\ za\u010D\u00EDn\u00E1\ aplikace\ zv\u00FD\u0161en\u00EDm\ \u010D\u00EDsla\ a\ tedy\r\n\ pot\u00E9\ za\u010D\u00EDn\u00E1\ od\ 0.\r\n
+comment1.params=card
+comment1.target=void\ putCard(Card)
+comment1.text=\r\n\ Metoda\ umo\u017E\u0148uje\ nastavit\ kartu,\ funguje\ jako\ klasick\u00FD\ set\r\n
+comment2.params=
+comment2.target=void\ incNumber()
+comment2.text=\r\n\ Metoda\ n\u00E1m\ zv\u00FD\u0161i\ kartu\ o\ 1\ a\ tak\u00E9\ n\u00E1m\ nastav\u00ED,\ \u017Ee\ byla\ p\u0159id\u00E1na\ do\ decku.\r\n
+comment3.params=
+comment3.target=Deck\ getDeck()
+comment3.text=\r\n\ @return\ deck\ vrac\u00ED\ rub\ karet.\r\n
+comment4.params=
+comment4.target=boolean\ getAdded()
+comment5.params=added
+comment5.target=void\ setAdded(boolean)
+comment6.params=
+comment6.target=int\ getNumber()
+comment7.params=i
+comment7.target=void\ setNumber(int)
+comment8.params=i
+comment8.target=void\ setUsed(int)
+comment9.params=i
+comment9.target=boolean\ getUsed(int)
+numComments=10

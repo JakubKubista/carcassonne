@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileNameException()
+comment1.params=message
+comment1.target=FileNameException(java.lang.String)
+comment2.params=cause
+comment2.target=FileNameException(java.lang.Throwable)
+comment3.params=message\ cause
+comment3.target=FileNameException(java.lang.String,\ java.lang.Throwable)
+numComments=4

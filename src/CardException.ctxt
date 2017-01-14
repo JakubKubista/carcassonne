@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=message
+comment0.target=CardException(java.lang.String)
+comment1.params=message\ e
+comment1.target=CardException(java.lang.String,\ java.lang.Exception)
+numComments=2

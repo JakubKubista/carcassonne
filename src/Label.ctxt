@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=text\ size\ color\ background
+comment0.target=Label(java.lang.String,\ int,\ java.awt.Color,\ java.awt.Color)
+comment0.text=\r\n\ Konstruktor\ Label\ n\u00E1m\ nastav\u00ED\ text,\ velikost,\ barvu\ p\u00EDsma\ a\ pozad\u00ED.\r\n
+comment1.params=imagine
+comment1.target=Label(java.lang.String)
+comment1.text=\r\n\ Tento\ (druh\u00FD)\ konstruktor\ ud\u00E1v\u00E1\ m\u00EDsto\ textu\ obr\u00E1zky\ p\u0159\u00EDslu\u0161n\u00FDm\ label\u016Fm.\r\n\ @param\ imagine\ hodnota\ textu,\ o\ kter\u00FD\ obr\u00E1zek\ se\ jedn\u00E1.\r\n
+comment2.params=
+comment2.target=Label()
+comment3.params=text
+comment3.target=void\ setText(java.lang.String)
+comment3.text=\r\n\ Tato\ metoda\ umo\u017E\u0148uje\ vytv\u00E1\u0159et\ nov\u00FD\ obraz\ pro\ GreenfootImage\ za\ pomoc\u00ED\ textu\ a\ dal\u0161\u00EDch\r\n\ atribut\u016F.\ Je\ o\u0161et\u0159ena\ metodou\ try\ catch,\ kdyby\ se\ n\u00E1hodou\ zadal\ \u0161patn\u00FD\ label,\ co\u017E\ n\u00E1m\r\n\ kompil\u00E1tor\ v\ klidu\ p\u0159elo\u017E\u00ED\ bez\ chyby.\ Nakonec\ nastav\u00ED\ lokaci\ labelu\ a\ textu,\ kter\u00FD\ za\ \r\n\ labelem\ pokra\u010Duje.\r\n
+comment4.params=imagine
+comment4.target=void\ setImagine(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getImagine()
+comment6.params=a
+comment6.target=void\ setAlign(int)
+comment7.params=x
+comment7.target=void\ setOrigX(int)
+comment8.params=
+comment8.target=Label\ getLabel()
+numComments=9

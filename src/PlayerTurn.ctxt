@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=board\ playerNames
+comment0.target=PlayerTurn(Board,\ java.lang.String[])
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ChoiseMenu.\r\n\ \r\n
+comment1.params=playerNames
+comment1.target=void\ setPlayerNames(java.lang.String[])
+comment2.params=actualPlayer
+comment2.target=void\ setPlayer(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

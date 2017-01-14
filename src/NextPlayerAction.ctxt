@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NextPlayerAction()
+comment1.params=
+comment1.target=boolean\ isEnabled()
+comment1.text=\r\n\ Metoda\ isEnabled\ je\ povolen\u00ED,\ neboli\ vrac\u00ED\ true.\r\n
+comment2.params=
+comment2.target=void\ move()
+comment3.params=cislo
+comment3.target=void\ setImagine(int)
+comment4.params=
+comment4.target=NextPlayerAction\ getNextPlayerAction()
+comment4.text=\r\n\ @return\ NextPlayerAction\ vrac\u00ED\ sipku.\r\n
+numComments=5

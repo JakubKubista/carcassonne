@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=phaseNumber
+comment0.target=void\ setPhase(int)
+comment0.text=\r\n\ \ \ \ public\ void\ choose(Tile\ tile,Card\ card);\r\n
+comment1.params=
+comment1.target=int\ getPhaseNumber()
+comment2.params=
+comment2.target=java.lang.String\ getPhaseName()
+numComments=3

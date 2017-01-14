@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment0.text=\r\n\ Konstruktor\ board\ nastav\u00ED\ jednotliv\u00E9\ Tily\ na\ lokace\ po\ map\u011B\ a\ vytvo\u0159\u00ED\ objekty\ pod\ n\u00E1zvy\r\n\ deck,\ labely,\ pockety,\ Score,\ moveAction,\ z\u00E1rove\u0148\ zavol\u00E1\ metodu\ prepare().\r\n
+comment1.params=numberOfPlayers\ playerNames
+comment1.target=Board(int,\ java.lang.String[])
+comment2.params=numberOfPlayers\ playerNames\ status
+comment2.target=Board(int,\ java.lang.String[],\ int)
+comment3.params=sound1
+comment3.target=void\ setSound(greenfoot.GreenfootSound)
+comment4.params=
+comment4.target=void\ settings()
+comment5.params=
+comment5.target=void\ load()
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ Metoda\ act\ je\ st\u00E1le\ se\ opakuj\u00EDc\u00ED\ meta,\ kter\u00E1\ umo\u017Enuje\ neust\u00E1l\u00FD\ b\u011Bh\ programu.\r\n\ Odkazuje\ se\ v\ n\u00ED\ na\ ve\u0161ker\u00E9\ akce,\ jen\u017E\ se\ t\u00FDkaj\u00ED\ pohybu.\ V\u0161echny\ pohyby\ jsou\ \u0161etrn\u011B\ za\ pomoci\r\n\ podm\u00EDnek\ zaji\u0161t\u011Bny,\ aby\ nedo\u0161lo\ k\ r\u016Fzn\u00FDm\ necht\u011Bn\u00FDm\ chyb\u00E1m.\ Je\ doprov\u00E1zena\ \u0159adou\ n\u00E1pov\u011Bdn\u00FDch\r\n\ label\u016F,\ aby\ se\ hr\u00E1\u010D\ dok\u00E1zal\ l\u00E9pe\ orientovat.\r\n
+comment7.params=
+comment7.target=void\ prepare()
+comment7.text=\r\n\ P\u0159iprav\u00ED\ program\ pro\ zah\u00E1jen\u00ED\ dal\u0161\u00EDch\ akc\u00ED,\ tedy\ ov\u011B\u0159\u00ED\ n\u00E1m\ za\ pomoci\ metody\ Equals()\r\n\ v\ Tile\ ov\u011B\u0159\u00ED,\ \u017Ee\ \u017E\u00E1dn\u00E9\ pole\ (Tile)\ se\ neshoduj\u00ED.\r\n
+comment8.params=
+comment8.target=Board\ getBoard()
+comment9.params=
+comment9.target=MoveCard\ getMoveCard()
+numComments=10

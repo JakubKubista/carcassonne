@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Loading()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ChoiseMenu.\r\n\ \r\n
+comment1.params=board
+comment1.target=void\ loadBoard(Board)
+comment2.params=
+comment2.target=Loading\ getLoading()
+numComments=3

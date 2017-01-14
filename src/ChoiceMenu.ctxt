@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=mainMenu\ sound1\ defaultNames
+comment0.target=ChoiceMenu(MainMenu,\ greenfoot.GreenfootSound,\ java.lang.String[])
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PauseMenu.\ Do\ konstruktoru\ si\ naimplementujeme\ neviditelne\r\n\ Labely,\ ktere\ nas\ odkazuji\ na\ dalsi\ tridy\ a\ slouzi\ nam\ tedy\ jako\ menu.\r\n\ \r\n
+comment1.params=
+comment1.target=ChoiceMenu\ getChoiceMenu()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Meto\ act\ nam\ zde\ slouzi\ jako\ menu,\ ve\ kterem\ prepiname\ worldy.\ Jen\ vytvarime.\r\n
+numComments=3

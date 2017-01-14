@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=dataInputStream\ dataOutputStream
+comment0.target=ClientThread(java.io.DataInputStream,\ java.io.DataOutputStream)
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Hlavni\ smycka,\ ktera\ cte\ a\ zpracovava\ zpravy\ od\ serveru\ a\ vykonava\ prislusne\ akce.\r\n\ Vetsinou\ to\ jsou\ volani\ do\ hlavni\ tridy\ klienta,\ ten\ potom\ vola\ udalosti\ UI.\r\n
+comment2.params=
+comment2.target=void\ exit()
+comment2.text=\r\n\ Manualni\ odpojeni\ se\ ze\ hry\ a\ zaroven\ vzdani\ se.\r\n
+comment3.params=words
+comment3.target=void\ sendCommand(java.lang.String)
+comment3.text=\r\n\ Univerzalni\ poslani\ prikazu\ na\ server.\r\n
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PauseMenu()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PauseMenu.\ Do\ konstruktoru\ si\ naimplementujeme\ neviditelne\r\n\ Labely,\ ktere\ nas\ odkazuji\ na\ dalsi\ tridy\ a\ slouzi\ nam\ tedy\ jako\ menu.\r\n\ \r\n
+comment1.params=
+comment1.target=PauseMenu\ getPauseMenu()
+comment1.text=\r\n\ Vraci\ hodnotu\ aktualniho\ Worldu.\r\n
+comment2.params=sound1
+comment2.target=void\ setSound(greenfoot.GreenfootSound)
+comment3.params=board
+comment3.target=void\ setBoard(Board)
+comment3.text=\r\n\ Nastavi\ board\ pro\ toto\ menu,\ aby\ se\ mohla\ hra\ pozastavit.\r\n
+comment4.params=movecard\ movepawn\ game\ phaseNumber\ playerNames
+comment4.target=void\ setForSave(MoveCard,\ MovePawn,\ Game,\ int,\ java.lang.String[])
+comment4.text=\r\n\ Dulezita\ metoda\ pro\ pripraveni\ atributu\ potrebnych\ k\ ukladani.\r\n
+comment5.params=mainMenu
+comment5.target=void\ setMainMenu(MainMenu)
+comment5.text=\r\n\ Nastavi\ board\ pro\ toto\ menu,\ aby\ se\ mohla\ hra\ ukoncit\ -\ vjet\ do\ hlavniho\ menu.\r\n
+comment6.params=
+comment6.target=void\ save()
+comment6.text=\r\n\ Klicova\ metoda\ k\ ukladani.\ Do\ dvou\ promennych\ algoritmus\ nastavi\ cilove\ cesty\ pro\ ukladani\r\n\ jak\ pro\ kartu\ tak\ pro\ pesaka.\ Predavame\ celkem\ 14\ hodnot,\ 7\ pro\ kartu\ a\ 7\ pro\ pesaka.\r\n\ Ukladani\ je\ reseno\ nejednodussim\ zpusobem\ a\ to\ t\u0159\u00EDdou\ BufferedWriter,\ kter\u00E1\ ukl\u00E1d\u00E1\ hodnoty\r\n\ do\ textov\u00FDch\ soubor\u016F\ v\ podob\u011B\ stringu.\ V\ obou\ p\u0155\u00EDpadech\ jsou\ jednotlive\ hodnoty\ oddeleny\r\n\ oddelovacem.\r\n
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ Meto\ act\ nam\ zde\ slouzi\ jako\ menu,\ ve\ kterem\ prepiname\ worldy.\ Vyjmkou\ je\ zde\ 3\ Label\ urceny\r\n\ pro\ save.\r\n
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=mainMenu
+comment0.target=Manual(MainMenu)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Manual.\ Mame\ zde\ tri\ konstruktory,\ Manual\ je\ zavolan\ podle\r\n\ toho\ ktery\ World\ ho\ vytvoril\ a\ podle\ tohoto\ faktu\ ma\ i\ nastaveny\ konstruktor.\r\n\ \r\n
+comment1.params=pauseMenu
+comment1.target=Manual(PauseMenu)
+comment2.params=choiceMenu
+comment2.target=Manual(ChoiceMenu)
+comment3.params=
+comment3.target=void\ setThisManual()
+comment3.text=\r\n\ Nastaveni\ pro\ chod\ manualu.\r\n\ \r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ V\ teto\ metode\ se\ pohybujeme\ podobne\ jako\ ve\ formatu\ pdf,\ muzeme\ otacet\ listy\ a\ ukoncit\r\n\ prohlizeni.\r\n\ \r\n
+numComments=5

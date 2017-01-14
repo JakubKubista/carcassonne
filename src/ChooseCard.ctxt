@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ChooseCard()
+comment1.params=phaseNumber
+comment1.target=void\ setPhase(int)
+comment1.text=\r\n\ \ \ \ public\ void\ choose(Tile\ tile,Card\ card)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if((tile\ \=\=null)&&(card\ \=\=null)){\r\n\ \ \ \ \ \ \ \ \ \ \ this.phaseNumber\ \=\ 1;\ \r\n\ \ \ \ \ \ \ \ \ \ \ this.phaseName\ \=\ "1/5";\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ if(card\ \=\=\ null){\r\n\ \ \ \ \ \ \ \ \ \ \ if(\!(tile.getAbsolute())){\r\n\ \ \ \ \ \ \ \ \ \ \ this.phaseNumber\ \=\ 2;\ \r\n\ \ \ \ \ \ \ \ \ \ \ this.phaseName\ \=\ "2/5";\r\n\ \ \ \ \ \ \ \ \ \ \ }else{\r\n\ \ \ \ \ \ \ \ \ \ \ this.phaseNumber\ \=\ 3;\ \r\n\ \ \ \ \ \ \ \ \ \ \ this.phaseName\ \=\ "3/5";\r\n\ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\ \ \ \ \ \ \ \r\n\ \ \ \ }\r\n
+comment2.params=
+comment2.target=int\ getPhaseNumber()
+comment3.params=
+comment3.target=java.lang.String\ getPhaseName()
+numComments=4

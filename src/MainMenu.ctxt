@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MainMenu()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PauseMenu.\ Do\ konstruktoru\ si\ naimplementujeme\ neviditelne\r\n\ Labely,\ ktere\ nas\ odkazuji\ na\ dalsi\ tridy\ a\ slouzi\ nam\ tedy\ jako\ menu.\r\n\ \r\n
+comment1.params=
+comment1.target=MainMenu\ getMainMenu()
+comment2.params=
+comment2.target=greenfoot.GreenfootSound\ getSound()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Meto\ act\ nam\ zde\ slouzi\ jako\ menu,\ ve\ kterem\ prepiname\ worldy.\ Vyjmkou\ je\ zde\ 4\ Label\ urceny\r\n\ pro\ zavolani\ JFrame,\ ktery\ nam\ muze\ nastavit\ nektere\ atributy\ ve\ hre.\r\n
+numComments=4
